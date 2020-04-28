@@ -40,6 +40,8 @@ CircleCI [jobs](./.circleci/config.yml):
 If you have any questions about, feedback for or problems with `flux-get-started`:
 
 
+
+
 - Invite yourself to the <a href="https://slack.cncf.io" target="_blank">CNCF community</a>
   slack and ask a question on the [#flux](https://cloud-native.slack.com/messages/flux/)
   channel.
